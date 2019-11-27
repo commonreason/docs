@@ -1,5 +1,7 @@
 # Common Reason
 
+[![Discord](https://img.shields.io/discord/586902457053872148.svg)](https://discord.gg/DZbg4rZ)
+
 **Common Reason** is a blockchain platform with smart contracts based
 on logic programming (Datalog) and relational database.
 
@@ -16,6 +18,17 @@ treat the whole storage as a relational database, with a reduced logic
 programming engine, Datalog, built on top of it. Actions, which are
 normal WebAssembly programs, operates on and modify the predicates in
 the relational database, to update the state.
+
+## Basic Information
+
+If you are wondering, we're still in the *Design Phase* of **Common
+Reason** blockchain. This is a hobby project, so things may take some
+time to take off. In the mean time, we welcome you to join our
+[Discord](https://discord.gg/VbdWT6c), or leave a comment on our
+Github issues, if you have any questions regarding this blockchain.
+
+The blockchain is most likely to be launched with Proof of Work
+consensus without pre-mine.
 
 ## Accounts and Smart Contracts
 

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-autometa": "^0.1.13",
+    "vuepress-plugin-clean-urls": "^1.1.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}

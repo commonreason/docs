@@ -71,7 +71,7 @@ ancestor(a, b), c <- parent(a, c), ancestor(c, b);
 This declares the rule `ancestor`. Ancestors are parents, or parents
 of parents.
 
-#### Procedural Operation
+#### Procedural Rules
 
 A particular clause of the body of a rule can be a WebAssembly
 binary. This allows numerical operations or negation to be
